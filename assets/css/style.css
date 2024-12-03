@@ -1,0 +1,58 @@
+/* CONFIGURACIÓN GENERAL */
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+nav p {
+  font-family: "Lobster", sans-serif;
+  font-size: 40px;
+  padding: 0px;
+  margin: 0px;
+}
+
+div h1 h2 {
+  color: #373a3c;
+  padding-bottom: 30px;
+  height: 30;
+  width: 30;
+  display: inline block;
+}
+
+#ricomida {
+  font-family: "Lobster", sans-serif;
+  font-size: 30px;
+}
+
+#mejoresrecetas {
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+#receta p {
+  font-family: "Cabin", sans-serif;
+  color: #373a3c;
+  text-align: left;
+}
+
+div h1 {
+  font-size: 30px;
+}
+
+div h2 {
+  font-size: 15px;
+}
+
+footer p {
+  font-family: "Lobster", sans-serif;
+  font-size: 40px;
+}
+
+/* #ingredientes {
+  background-color: #dc3545;
+}
+#preparacion {
+  background-color: #dc3545;
+} */
